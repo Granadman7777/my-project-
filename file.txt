@@ -2,4 +2,12 @@ text
 
 text 2  
 
+<<<<<<< HEAD
 text 3
+=======
+text 3
+
+text 1.0 
+
+text 1.1 
+>>>>>>> 70f4a8c10bfd49c37dc04b097f4add4a9357a925
